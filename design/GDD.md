@@ -19,7 +19,7 @@
 > **This document describes the vision, gameplay philosophy and long-term design goals of Ghost Events.**
 
 
-----
+---
 
 ## Document Status
 
@@ -237,15 +237,20 @@ Ghost Events is not designed to be:
 Instead, Ghost Events focuses on emergent storytelling, believable paranormal behaviour and cinematic investigations.
 
 
-
 ---
+
 ## Project Motto
 
 > "Every paranormal event should make the player ask one question:
 
 > *Did that really just happen?*"
+
 ---
 
-> *Ghost Events
+## Project Identity
 
-> *Dynamic Paranormal Storytelling Engine*
+**Ghost Events**
+
+*Dynamic Paranormal Storytelling Engine*
+
+---
